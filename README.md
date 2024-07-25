@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @djogray
-Independant worker
+Independent worker
